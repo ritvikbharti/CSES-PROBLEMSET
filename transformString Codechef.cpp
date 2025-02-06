@@ -1,5 +1,8 @@
-#include <bits/stdc++.h>
+#include<iostream>
+#include<vector>
+#include<map>
 using namespace std;
+
 
 int main() {
 	// your code goes here
@@ -18,7 +21,7 @@ int main() {
 	    while(!pq.empty()){
 	        char ch = pq.top().second;
 	        int freq = pq.top().first;
-	        if()
+	        if();
 	    }
 	    
 	    
